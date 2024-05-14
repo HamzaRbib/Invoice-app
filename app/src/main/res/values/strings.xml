@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Invoice app</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login"><u>Click to login</u></string>
+    <string name="click_to_register"><u>Click to register</u></string>
+    <string name="welcome_to_invoice_app">Welcome to invoice app</string>
+    <string name="fab_content_desc">Add new invoice</string>
+    <string name="logout">logout</string>
+    <string name="page_title">Create new invoice</string>
+</resources>
